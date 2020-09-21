@@ -2,6 +2,9 @@
     "imports": {
       "react": "https://cdn.jsdelivr.net/npm/react@16.13.0/umd/react.production.min.js",
       "react-dom": "https://cdn.jsdelivr.net/npm/react-dom@16.13.0/umd/react-dom.production.min.js",
-      "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.5.1/lib/system/single-spa.min.js"
+      "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.5.1/lib/system/single-spa.min.js",
+      "@michaelpmcmillan/root-config": "https://muscle-track.netlify.app/michaelpmcmillan-root-config.js",
+      "@michaelpmcmillan/muscle-track-mfe-navbar": "https://muscle-track-navbar.netlify.app/michaelpmcmillan-muscle-track-mfe-navbar.js",
+      "@michaelpmcmillan/muscle-track-mfe-home": "https://muscle-track-home.netlify.app/michaelpmcmillan-muscle-track-mfe-home.js"
     }
   }
