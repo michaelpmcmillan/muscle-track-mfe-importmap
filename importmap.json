@@ -5,6 +5,7 @@
       "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.5.1/lib/system/single-spa.min.js",
       "@michaelpmcmillan/root-config": "https://muscle-track.netlify.app/michaelpmcmillan-root-config.js",
       "@michaelpmcmillan/muscle-track-mfe-navbar": "https://muscle-track-navbar.netlify.app/michaelpmcmillan-muscle-track-mfe-navbar.js",
+      "@michaelpmcmillan/muscle-track-mfe-login": "https://muscle-track-login.netlify.app/michaelpmcmillan-muscle-track-mfe-login.js",
       "@michaelpmcmillan/muscle-track-mfe-home": "https://muscle-track-home.netlify.app/michaelpmcmillan-muscle-track-mfe-home.js",
       "@michaelpmcmillan/muscle-track-mfe-capture-weight-loss-data": "https://muscle-track-capture-weight-loss-data.netlify.app/michaelpmcmillan-muscle-track-mfe-capture-weight-loss-data.js"
     }
